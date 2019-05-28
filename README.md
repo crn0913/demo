@@ -1,3 +1,3 @@
 # juejin
-掘金
+阿迪斯
 hello world
